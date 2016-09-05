@@ -7,3 +7,4 @@ a = "tiger ♥"
 b = 'rabbit ♥'
 
 print(a, b)   # tiger ♥ rabbit ♥
+Emelie skriver hos Heidi.
